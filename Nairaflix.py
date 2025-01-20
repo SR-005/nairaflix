@@ -2,7 +2,7 @@ from tkinter import *
 from tkinter import messagebox
 import mysql.connector as sql
 from PIL import ImageTk,Image
-con=sql.connect(host="localhost",user="root",passwd="password")
+con=sql.connect(host="localhost",user="root",passwd="nihal2692")
 cur=con.cursor()
 #DEFAULT SQL QUERY
 
