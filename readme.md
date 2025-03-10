@@ -74,6 +74,6 @@ Feel free to contribute to the project! You can:
 ### 🔗 Connect with Me
 
 - GitHub: [SR-005](https://github.com/SR-005)
-- LinkedIn: [Sreeram V Gopal]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sreeram-v-gopal-7477082a0/))
+- LinkedIn: [Sreeram V Gopal]((https://www.linkedin.com/in/sreeram-v-gopal-7477082a0/))
 
 
