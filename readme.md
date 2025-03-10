@@ -42,7 +42,7 @@ Ensure you have the following installed:
    ```
 3. **Run the application**
    ```bash
-   python main.py
+   python nairaflix.py
    ```
 
 ## 🏗️ Database Configuration
